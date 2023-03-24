@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.img {
+	width: 200px;
+	height: 190px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+}
+
+.alinhamento, h2{
+	padding-bottom: 15px;
+}
+
+p {
+	padding-bottom: 1px;
+}

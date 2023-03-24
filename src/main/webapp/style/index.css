@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+.alinhamento {
+	text-align: center;
+	padding-top: 35px;
+}
+
+.img {
+	width: 100px;
+	height: 90px;
+	padding-bottom: 15px;
+}
+
+.titulo {
+	font-family: 'Oswald', sans-serif;
+	padding-bottom: 15px;
+}
+
+h2 {
+	padding-bottom: 10px;
+}
+
+.imgTwitch {
+	width: 150px;
+	height: 100px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.imgMicrosoft {
+	width: 200px;
+	height: 100px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.imgDroz {
+	width: 110px;
+	height: 100px;
+	padding-right: 15px;
+	padding-left: 15px;
+}

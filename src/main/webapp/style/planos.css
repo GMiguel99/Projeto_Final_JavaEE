@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.alinhamento {
+	text-align: center;
+}
+
+.img {
+	width: 100px;
+	height: 90px;
+	padding-bottom: 15px;
+}
+
+.alinhamento2 {
+	padding-top: 10px;
+}
+
+.text {
+	padding-top: 10px;
+}
+
+.botao {
+	font-size: 15px;
+	background-color: #00ff00;
+	padding: 2px 8px 2px 8px;
+	border-radius: 5%;
+	color: black;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

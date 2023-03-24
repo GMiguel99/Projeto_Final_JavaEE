@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: 0px;
+}
+
+body {
+    background-color: black;
+    color: #00ff00;
+    text-align: center;
+}
+
+
+header {
+    display: flex;
+    width: 70%;
+    height: 10vh;
+    margin: auto;
+    margin-top: 25px;
+}
+
+nav {
+    flex: 10;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+.nav-links {
+    justify-content: space-around;
+    list-style: none;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 25px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #00ff00;
+}
+
+footer {
+	margin-top: 20px;
+}
